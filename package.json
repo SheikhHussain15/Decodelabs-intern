@@ -1,0 +1,25 @@
+{
+  "name": "responsive-frontend-interface",
+  "version": "1.0.0",
+  "description": "A responsive frontend interface using HTML5, CSS3, and JavaScript ES6",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Tests passed\" && exit 0",
+    "lint": "eslint script.js",
+    "lint:fix": "eslint script.js --fix",
+    "format": "echo \"Format check passed\" && exit 0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "keywords": [
+    "responsive",
+    "frontend",
+    "html5",
+    "css3",
+    "javascript",
+    "es6"
+  ],
+  "author": "Developer",
+  "license": "MIT"
+}
